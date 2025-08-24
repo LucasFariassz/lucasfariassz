@@ -22,22 +22,21 @@ Busco oportunidades que melhorem meu conhecimento, me conectem com a comunidade 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-<div align="center">
+
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariassz&layout=compact&theme=dracula)
-</div>
+
 ---
 
-<div align="center">
 ## 📬 Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucasfariassz/)  
 [![Hotmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lucasmoreira16@hotmail.com)  
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel)](https://lucasfariassz.github.io/PROJETOPORTFOLIO/)  
-</div>
+
 ---
 
 ✨ Obrigado pela visita! 💜
