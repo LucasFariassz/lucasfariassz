@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-**Desenvolvedor Júnior | Cursando Análise e Desenvolvimento de Sistemas**
+**Desenvolvedor Backend | Cursando Análise e Desenvolvimento de Sistemas**
 
 ---
 
@@ -34,9 +34,9 @@ Busco oportunidades que melhorem meu conhecimento, me conectem com a comunidade 
 ---
 
 ## 📬 Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucasfariassz/)  
-[![Hotmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lucasmoreira16@hotmail.com)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel)](https://lucasfariassz.github.io/PROJETOPORTFOLIO/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucasfariassz/)
+[![Hotmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lucasmoreira16@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel)](https://lucasfariassz.github.io/PROJETOPORTFOLIO/)
 
 ---
 
